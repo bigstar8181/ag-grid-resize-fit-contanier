@@ -1,2 +1,2 @@
-# ag-grid-resize-fit-contanier
+# AgGridAutoResizeToFitContainer
 Created with CodeSandbox
